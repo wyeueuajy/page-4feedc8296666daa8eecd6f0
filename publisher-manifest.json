@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "f177a7e77a924cfc9d84c1ac",
+  "owner": "wyeueuajy",
+  "repo": "page-4feedc8296666daa8eecd6f0",
+  "title": "超实惠机场",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4feedc8296666daa8eecd6f0",
+      "a": "超实惠机场",
+      "b": "",
+      "entity": "超实惠机场",
+      "brand": "超实惠机场",
+      "separator": "",
+      "path": "index.html",
+      "hash": "80b9d7bd48e97810d892911a176bf1d9b62e6977fe7c30320d5553378f68f83f",
+      "content": {
+        "keyword1": "超实惠机场",
+        "keyword2": "",
+        "primary_entity": "超实惠机场",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "超实惠机场提供高性价比机场订阅与VPN加速服务，覆盖流媒体解锁、游戏专线与多端客户端下载，欢迎通过官网了解套餐并获取订阅。",
+          "AI_DESCRIPTION": "超实惠机场提供高性价比机场订阅与VPN加速服务，覆盖流媒体解锁、游戏专线与多端客户端下载，欢迎通过官网了解套餐并获取订阅。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html,body{margin:0;padding:0;max-width:100%;overflow-x:hidden}body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;background:#f3f4f6;color:#111827;font-size:16px;line-height:1.7}a{color:#6d28d9;text-decoration:none}a:hover{text-decoration:underline}header{background:#5b21b6;color:#f5f3ff;padding:0.85rem 1rem}header .wrap,footer .wrap,main{max-width:1080px;margin:0 auto}nav{display:flex;flex-wrap:wrap;gap:0.65rem 1rem;font-size:0.95rem}nav a{color:#ede9fe}h1{font-size:1.75rem;color:#4c1d95;margin:0 0 0.6rem;line-height:1.3}h2{font-size:1.35rem;color:#5b21b6;margin:1.6rem 0 0.7rem;padding-bottom:0.35rem;border-bottom:2px solid #ddd6fe}h3{font-size:1.12rem;color:#4c1d95;margin:1rem 0 0.4rem}p{margin:0.55rem 0}main{padding:1rem}section{margin:0 0 1.2rem}.lead{background:#fff;border:1px solid #e5e7eb;border-radius:10px;padding:1rem 1.1rem}.layout{display:flex;flex-wrap:wrap;gap:1rem}.col-main{flex:1 1 640px;min-width:0}.col-side{flex:1 1 280px;min-width:0}.card,.plan,details,.adbox,.friends{background:#fff;border:1px solid #e5e7eb;border-radius:10px;padding:1rem}.plans{display:flex;flex-wrap:wrap;gap:0.9rem}.plan{flex:1 1 250px}.plan.featured{border:2px solid #7c3aed;box-shadow:0 0 0 1px #c4b5fd}.price{font-size:1.25rem;font-weight:700;color:#6d28d9}.muted{color:#4b5563;font-size:0.95rem}ul,ol{padding-left:1.2rem;margin:0.4rem 0}.clients{display:flex;flex-wrap:wrap;gap:0.6rem}.client{flex:1 1 140px;background:#f5f3ff;border:1px solid #ddd6fe;border-radius:8px;padding:0.7rem;text-align:center}.badge{display:inline-block;background:#7c3aed;color:#fff;font-size:0.75rem;padding:0.1rem 0.45rem;border-radius:999px;margin-left:0.3rem}details{margin:0.55rem 0}summary{cursor:pointer;font-weight:600;color:#4c1d95}footer{background:#111827;color:#e5e7eb;padding:1.2rem 1rem;margin-top:1.5rem;font-size:0.92rem}footer a{color:#c4b5fd}.sitemap,.friends a{display:inline-block;margin:0.2rem 0.7rem 0.2rem 0}</style><header><div class=\"wrap\"><nav><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐方案</a><a href=\"#clients\">客户端下载</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a><a href=\"#links\">官网导航</a></nav></div></header><main><h1>超实惠机场</h1><p class=\"muted\">超实惠机场官方网站 · 机场订阅 · VPN 加速器 · 多端客户端下载</p><section class=\"lead\" id=\"intro\"><h2>品牌简介</h2><p>超实惠机场面向需要稳定跨境网络的个人与小团队，提供可订阅的机场服务与多协议加速能力。页面内容围绕超实惠机场的套餐、客户端选择、使用场景和导入步骤展开，方便用户在官网完成了解、对比与下载指引。</p><p>服务侧重性价比：普通线路覆盖日常网页与社交，旗舰线路补充 IPLC 游戏优化与原生流媒体解锁。订阅可在 Clash、Shadowrocket、Quantumult X、v2rayN 与 sing-box 等客户端中导入。超实惠机场不捆绑单一 App，用户可按设备自行选择官方客户端下载渠道。</p><p>若你正在寻找梯子网络加速、加速器或机场订阅，可先对照下方套餐流量与设备台数，再进入客户端选择章节完成配置。</p></section><div class=\"layout\"><div class=\"col-main\"><section id=\"plans\"><h2>套餐方案</h2><p>以下为超实惠机场当前固定套餐。价格与权益以本页展示为准，年付可降低月均成本。旗舰版适合同时看流媒体和打游戏的用户。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"muted\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版<span class=\"badge\">推荐</span></h3><p class=\"price\">¥35/月</p><p class=\"muted\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"muted\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"clients\"><h2>客户端选择与官网下载指引</h2><p>超实惠机场强调客户端选择：订阅通用，软件请从各客户端自己的官方渠道获取。本站提供兼容说明与导入步骤，不托管第三方安装包。</p><h3>Windows / macOS / Linux</h3><p>桌面端建议 Clash Verge、Clash Meta、v2rayN 或 sing-box 图形客户端。导入订阅后开启系统代理或 TUN，再按延迟筛选节点。</p><h3>Android</h3><p>可使用 Clash Meta for Android、NekoBox 或 Hiddify。权限中打开 VPN 与通知，避免省电策略杀掉进程。</p><h3>iOS / iPadOS</h3><p>常用 Shadowrocket、Quantumult X、Stash 与 Surge。从 App Store 完成官方下载后，粘贴超实惠机场订阅链接即可拉取节点。</p><div class=\"clients\"><div class=\"client\"><strong>Clash 系</strong><p><a href=\"#guide\">导入说明</a></p></div><div class=\"client\"><strong>Shadowrocket</strong><p><a href=\"#guide\">iOS 下载指引</a></p></div><div class=\"client\"><strong>Quantumult X</strong><p><a href=\"#guide\">分流规则</a></p></div><div class=\"client\"><strong>v2rayN</strong><p><a href=\"#guide\">Windows 配置</a></p></div><div class=\"client\"><strong>sing-box</strong><p><a href=\"#guide\">多平台核心</a></p></div><div class=\"client\"><strong>Surge / Stash</strong><p><a href=\"#guide\">进阶用户</a></p></div></div></section><section id=\"scenes\"><h2>使用场景</h2><h3>流媒体与内容访问</h3><p>旗舰版强调全节点原生流媒体解锁，适合纪录片、课程与常规影视站点。基础版覆盖常见网站，若遇到地区限制可切换解锁节点。</p><h3>游戏与实时对战</h3><p>IPLC 专线用于降低抖动。建议游戏走独立策略，聊天与更新走普通线路，避免占满月度流量。</p><h3>跨境办公与资料检索</h3><p>团队版支持更多设备与定制路由，适合同时打开文档、会议和代码仓库。请仅用于合法合规的工作与学习用途。</p><h3>多设备家庭共享</h3><p>按套餐设备上限分配手机、电脑和平板。超出在线数时优先关掉闲置客户端，而不是反复更换订阅。</p></section><section id=\"guide\"><h2>操作说明</h2><h3>第一步：选择套餐</h3><p>根据月流量、同时在线设备与是否需要 IPLC，在基础版、旗舰版或团队版中三选一。需要长期使用时优先年付。</p><h3>第二步：获取订阅</h3><p>在超实惠机场用户中心复制通用订阅链接。请妥善保存，不要把链接发到公开群组。</p><h3>第三步：安装客户端</h3><p>前往对应系统的客户端官方下载页面安装软件。本官网只提供选择建议，不替代各软件的官方安装包。</p><h3>第四步：导入并连接</h3><p>打开客户端的订阅栏，粘贴链接并更新。选择延迟较低的节点，开启代理后访问目标站点验证。流媒体失败时改用解锁分组，游戏改用 IPLC 分组。</p><ol><li>复制订阅 URL</li><li>客户端内添加订阅并更新</li><li>按规则分流（国内直连、国外代理）</li><li>测试网页、视频与游戏延迟</li><li>流量将尽时减少大文件下载或升级套餐</li></ol></section></div><aside class=\"col-side\"><section class=\"card\"><h2>节点与加速说明</h2><p>超实惠机场节点覆盖常用地区，普通池适合浏览，VIP 与 IPLC 适合高峰期。延迟随网络环境变化，连接前请测速。</p><p>协议方面兼容常见的 Trojan、VLESS 与 Shadowsocks 订阅格式，具体以用户中心展示为准。</p></section><section class=\"card\"><h2>官方身份</h2><p>本页为超实惠机场信息与下载指引页。套餐名称、价格和权益与上方列表一致。如需工单，旗舰版与团队版享有优先通道。</p><p><a href=\"#plans\">查看套餐</a> · <a href=\"#clients\">客户端选择</a> · <a href=\"#faq\">常见问题</a></p></section><section class=\"adbox\"><h2>合作展示</h2><p>广告：网络加速周边工具与教程站点可在此互换文字链。超实惠机场仅展示与客户端下载、机场订阅相关的说明信息。</p><p><a href=\"#\">加速器使用手册</a> · <a href=\"#\">分流规则示例</a></p></section></aside></div><section id=\"faq\"><h2>常见问题</h2><details><summary>超实惠机场是什么服务？</summary><p>超实惠机场是提供订阅制节点的加速服务，用户将链接导入自选客户端后即可使用梯子网络加速。它不是单一封闭 App，而是官网套餐加多客户端生态。</p></details><details><summary>客户端应该从哪里下载？</summary><p>请从 Clash、Shadowrocket、Quantumult X、v2rayN、sing-box 等软件各自的官方渠道下载。超实惠机场官网提供选择说明和导入步骤，不提供来路不明的安装包。</p></details><details><summary>如何把机场订阅导入加速器？</summary><p>复制用户中心的订阅地址，在客户端的订阅或配置页面粘贴并更新。若节点为空，检查链接是否完整、客户端是否允许 HTTP 订阅，然后重新更新。</p></details><details><summary>三个套餐怎样挑选？</summary><p>轻度浏览选基础版；需要原生流媒体、IPLC 游戏和优先工单选旗舰版；多人共用、需要定制路由和客户经理选团队版。流量与设备数以套餐列表为准。</p></details><details><summary>看视频或玩游戏卡顿怎么办？</summary><p>先更换同分组内延迟更低的节点，关闭占用带宽的下载，确认没有超出设备在线上限。游戏优先走 IPLC，视频走解锁节点，避免所有应用挤在同一条线路。</p></details><details><summary>流量用完或需要发票、退订如何处理？</summary><p>流量耗尽后会限速或暂停加速，可等待下个周期或升级套餐。账单与退订规则以用户中心公示为准。团队版可联系专属客户经理协助对账。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer id=\"links\"><div class=\"wrap\"><p>超实惠机场官方网站 · 版权所有</p><p class=\"sitemap\"><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#clients\">客户端下载</a><a href=\"#scenes\">场景</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">FAQ</a><a href=\"#\">网站地图</a></p><p class=\"friends\">友情链接：<a href=\"#\">Clash 入门</a><a href=\"#\">iOS 加速器指南</a><a href=\"#\">分流规则分享</a><a href=\"#\">办公网络优化</a></p></div></footer>",
+          "hash": "370292fec5902c5311d3838cda4495df047775805675d108511fa6a637180e90",
+          "seo": {
+            "title": "超实惠机场官方网站 - 超实惠梯子网络加速与客户端下载",
+            "keywords": "超实惠机场,超实惠机场官网,超实惠机场下载,VPN,梯子,网络加速,加速器,客户端下载,机场订阅,Clash,Shadowrocket",
+            "description": "超实惠机场提供高性价比机场订阅与VPN加速服务，覆盖流媒体解锁、游戏专线与多端客户端下载，欢迎通过官网了解套餐并获取订阅。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bcrpk.cn",
+    "host": "p-0456d78302.bcrpk.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "bcrpk.cn",
+      "url": "https://bcrpk.cn/",
+      "label": "布吉岛",
+      "apex": "bcrpk.cn",
+      "kind": null,
+      "identity": "uccstkhy/page-528795fd081b0c7dc650c278"
+    },
+    {
+      "host": "hfsszx.com",
+      "url": "https://hfsszx.com/",
+      "label": "超实惠机场",
+      "apex": "hfsszx.com",
+      "kind": null,
+      "identity": "jyqtvbjrr/page-a3d8b95929ee134490216228"
+    },
+    {
+      "host": "hongkangdayaofang.com",
+      "url": "https://hongkangdayaofang.com/",
+      "label": "超实惠机场",
+      "apex": "hongkangdayaofang.com",
+      "kind": null,
+      "identity": "ngunmmqadk/page-41e4cfbea99b7458b52d84db"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "0a2efbb451a290234ed118b7000134382f4d87648e305c513c213b54159f0e80",
+    "sitemap.xml": "b8af5396e21c9def8fa1553f5b66711a7c1f7ea52b31d3dfb6303bdd9d3376b8",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c2cf640ed0f9e88a8e87883dae28c346b44b78e2ec6b30af7f5a5da6b79a0f8e",
+    "robots.txt": "4c79188cb96990b0d7f6c86878a97c990bfcc32fca3be43b0694812330cb30e3",
+    "1f2f2469da543fdd4c7ea0f7a2603ecf.txt": "6476ba02943a5f6928573d70cc27d97bc71139ff0b43048bc1e75b712a89f544"
+  },
+  "revision": "84f6b2717967a7fdf75daa2a3b0a75e4c9c1216370e95bf5f2020522025f9ffc"
+}
